@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "name": "Athar",
+    "meaning": "Athar (Arabo Standard): Keyword: أثر - Traccia / Segno lasciato nel tempo / Resto antico. Un termine ideale per il contesto paleoecologico e per lo studio di reperti fossili."
+  },
+  {
+    "id": 2,
+    "name": "Ami",
+    "meaning": "Ami (Yoruba): Segno / Punto. Rappresenta i Pits nell'area dell'Africa Occidentale (areale Crocuta)."
+  },
+  {
+    "id": 3,
+    "name": "Anch",
+    "meaning": "Anch (Bengalese): Graffio / Segno lineare. Rappresenta gli Scratches nell'estremo confine orientale dell'areale della iena striata."
+  },
+  {
+    "id": 4,
+    "name": "Ato",
+    "meaning": "Ato (Giapponese): Keyword: 跡 - Traccia / Impronta."
+  },
+  {
+    "id": 5,
+    "name": "Azad",
+    "meaning": "Azad (Persiano / Farsi): Libero / Senza vincoli. Termine utilizzato in Iran e Asia Centrale per indicare il software libero."
+  },
+  {
+    "id": 6,
+    "name": "Bure",
+    "meaning": "Bure (Swahili): Gratis / Gratuito. Lingua dell'Africa Orientale, cuore del territorio della Crocuta."
+  },
+  {
+    "id": 7,
+    "name": "Çizgi",
+    "meaning": "Çizgi (Turco): Linea / Striscia / Graffio. In turco la iena striata si chiama proprio Çizgili sırtlan. Lega il mantello dell'animale all'oggetto del campionamento."
+  },
+  {
+    "id": 8,
+    "name": "Dab",
+    "meaning": "Dab (Arabo Standard): Keyword: ضبع - Iena. Il riferimento assoluto alla specie striata in Nord Africa e Medio Oriente."
+  },
+  {
+    "id": 9,
+    "name": "Dandan",
+    "meaning": "Dandan (Persiano / Farsi): Dente."
+  },
+  {
+    "id": 10,
+    "name": "Dant",
+    "meaning": "Dant (Hindi / Sanscrito): Dente. Una radice antichissima dell'India che condivide l'origine con la parola \"dentale\"."
+  },
+  {
+    "id": 11,
+    "name": "Diş",
+    "meaning": "Diş (Turco): Dente."
+  },
+  {
+    "id": 12,
+    "name": "Fisi",
+    "meaning": "Fisi (Swahili): Iena. Si riferisce quasi esclusivamente alla iena maculata (Crocuta crocuta) nelle savane dell'Africa Orientale."
+  },
+  {
+    "id": 13,
+    "name": "Gizoku",
+    "meaning": "Gizoku (Giapponese): Keyword: 義賊 - Ladro gentiluomo / Eroe popolare (l'equivalente di Robin Hood)."
+  },
+  {
+    "id": 14,
+    "name": "Hen",
+    "meaning": "Hen (Cinese Mandarino): Keyword: 痕 - Traccia / Cicatrice / Segno."
+  },
+  {
+    "id": 15,
+    "name": "Hurr",
+    "meaning": "Hurr (Arabo Standard): Keyword: حر - Libero / Indipendente."
+  },
+  {
+    "id": 16,
+    "name": "Ibala",
+    "meaning": "Ibala (Zulu): Macchia / Punto. Descrive il pattern tipico della iena maculata in Sudafrica."
+  },
+  {
+    "id": 17,
+    "name": "Ifis",
+    "meaning": "Ifis (Berbero / Tamazight): Iena striata. Radice autoctona del Nord Africa (Maghreb) e quasi anagramma di Fisi."
+  },
+  {
+    "id": 18,
+    "name": "Ilelli",
+    "meaning": "Ilelli (Berbero / Tamazight): Libero."
+  },
+  {
+    "id": 19,
+    "name": "İz",
+    "meaning": "İz (Turco): Traccia / Impronta."
+  },
+  {
+    "id": 20,
+    "name": "Jerred",
+    "meaning": "Jerred (Berbero / Tamazight): Graffiare / Incidere una linea. Descrive l'azione meccanica sulle superfici di smalto."
+  },
+  {
+    "id": 21,
+    "name": "Jiyu",
+    "meaning": "Jiyu (Giapponese): Keyword: 自由 - Libertà / Libero da vincoli."
+  },
+  {
+    "id": 22,
+    "name": "Kaftar",
+    "meaning": "Kaftar (Persiano / Farsi): Iena. Nome della specie striata in Iran, territorio con popolazioni molto stabili."
+  },
+  {
+    "id": 23,
+    "name": "Kandira",
+    "meaning": "Kandira (Shona): La \"picchiettata\". Nome descrittivo per i Pits in Zimbabwe."
+  },
+  {
+    "id": 24,
+    "name": "Khadsh",
+    "meaning": "Khadsh (Arabo Standard): Keyword: خدش - Graffio / Abrasione. La traduzione concettuale dell'usura lineare."
+  },
+  {
+    "id": 25,
+    "name": "Kharash",
+    "meaning": "Kharash (Persiano / Farsi): Graffio / Abrasione."
+  },
+  {
+    "id": 26,
+    "name": "Khat",
+    "meaning": "Khat (Persiano / Farsi): Linea / Tratto. Rappresenta la striatura della Hyaena in Asia Centrale e la forma degli scratches."
+  },
+  {
+    "id": 27,
+    "name": "Kibe",
+    "meaning": "Kibe (Amharico): Nome della iena in Etiopia, terra cruciale per i fossili di P. perrieri e P. brevirostris."
+  },
+  {
+    "id": 28,
+    "name": "Lakarbagha",
+    "meaning": "Lakarbagha (Hindi): Iena striata. Nome comune utilizzato nell'India moderna."
+  },
+  {
+    "id": 29,
+    "name": "Libre",
+    "meaning": "Libre (Francese / Spagnolo): Libero."
+  },
+  {
+    "id": 30,
+    "name": "Majjani",
+    "meaning": "Majjani (Arabo Standard): Keyword: مجاني - Gratuito."
+  },
+  {
+    "id": 31,
+    "name": "Madoa",
+    "meaning": "Madoa (Swahili): Macchie. Riferito al mantello della Crocuta nell'area dell'Africa Orientale."
+  },
+  {
+    "id": 32,
+    "name": "Men",
+    "meaning": "Men (Giapponese): Keyword: 面 - Superficie / Faccia. Richiama i parametri di eterogeneità e complessità planare."
+  },
+  {
+    "id": 33,
+    "name": "Mianfei",
+    "meaning": "Mianfei (Cinese Mandarino): Keyword: 免费 - Gratuito."
+  },
+  {
+    "id": 34,
+    "name": "Micro",
+    "meaning": "Micro (Greco): Riferito alla micro-usura e all'analisi ad alta risoluzione (microscopio Hirox)."
+  },
+  {
+    "id": 35,
+    "name": "Milia",
+    "meaning": "Milia (Swahili): Strisce / Striato. In Africa Orientale identifica la iena striata (Fisi milia)."
+  },
+  {
+    "id": 36,
+    "name": "Mpisi",
+    "meaning": "Mpisi (Zulu): Iena. Variante onorifica e potente del Sudafrica."
+  },
+  {
+    "id": 37,
+    "name": "Mukt",
+    "meaning": "Mukt (Hindi / Sanscrito): Libero / Svincolato / Rilasciato."
+  },
+  {
+    "id": 38,
+    "name": "Muryo",
+    "meaning": "Muryo (Giapponese): Keyword: 無料 - Gratuito / Senza costo."
+  },
+  {
+    "id": 39,
+    "name": "Neshan",
+    "meaning": "Neshan (Persiano / Farsi): Segno / Traccia / Impronta."
+  },
+  {
+    "id": 40,
+    "name": "Nibt",
+    "meaning": "Nibt (Amharico): Punto / Goccia. Rappresenta i Pits in Etiopia."
+  },
+  {
+    "id": 41,
+    "name": "Noa",
+    "meaning": "Noa (Hawaiano): Libero da restrizioni / Senza tabù."
+  },
+  {
+    "id": 42,
+    "name": "Ozgur",
+    "meaning": "Ozgur (Turco): Libero / Indipendente."
+  },
+  {
+    "id": 43,
+    "name": "Rakh",
+    "meaning": "Rakh (Arabo / Berbero): Radice che indica una \"linea lunga/distesa\", ideale per i Fine Scratches."
+  },
+  {
+    "id": 44,
+    "name": "Rekha / Rekh",
+    "meaning": "Rekha / Rekh (Hindi / Sanscrito): Linea / Striscia / Graffio. Unisce il pattern striato dell'India all'atto di incidere una linea."
+  },
+  {
+    "id": 45,
+    "name": "Sath",
+    "meaning": "Sath (Arabo Standard): Keyword: سطح - Superficie."
+  },
+  {
+    "id": 46,
+    "name": "Seba",
+    "meaning": "Seba (Arabo Standard): Predatore. Nome poetico storicamente associato alla iena striata nel Vicino Oriente."
+  },
+  {
+    "id": 47,
+    "name": "Shima",
+    "meaning": "Shima (Giapponese): Keyword: 縞 - Striscia / Striatura. In Giappone, la iena striata è chiamata Shima haiena."
+  },
+  {
+    "id": 48,
+    "name": "Sırtlan",
+    "meaning": "Sırtlan (Turco): Iena. Nome della specie striata nel ponte tra Asia ed Europa."
+  },
+  {
+    "id": 49,
+    "name": "Tarak / Tarakshu",
+    "meaning": "Tarak / Tarakshu (Sanscrito): Antico nome della iena in India, che rappresenta l'estremo confine orientale del suo areale."
+  },
+  {
+    "id": 50,
+    "name": "Tastir",
+    "meaning": "Tastir (Arabo Standard): Rigatura / Tracciamento di linee."
+  },
+  {
+    "id": 51,
+    "name": "Tighmas",
+    "meaning": "Tighmas (Berbero / Tamazight): Denti."
+  },
+  {
+    "id": 52,
+    "name": "Waraba",
+    "meaning": "Waraba (Mandinka): Grande predatore. Nome usato per la iena nell'Africa Occidentale."
+  },
+  {
+    "id": 53,
+    "name": "Wen",
+    "meaning": "Wen (Cinese Mandarino): Keyword: 纹 - Pattern / Linee / Strisce."
+  },
+  {
+    "id": 54,
+    "name": "Wuruyè",
+    "meaning": "Wuruyè (Bambara): Iena. Nome melodico utilizzato in Mali."
+  },
+  {
+    "id": 55,
+    "name": "Xia",
+    "meaning": "Xia (Cinese Mandarino): Keyword: 侠 - Eroe / Paladino / Vigilante (utile per l'unione \"Xia Ya\")."
+  },
+  {
+    "id": 56,
+    "name": "Ya",
+    "meaning": "Ya (Cinese Mandarino): Keyword: 牙 - Dente."
+  },
+  {
+    "id": 57,
+    "name": "Ziyou",
+    "meaning": "Ziyou (Cinese Mandarino): Keyword: 自由 - Libertà."
+  }
+]
